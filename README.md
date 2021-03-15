@@ -1,2 +1,2 @@
 # Hopfield Network
-Hopfield network implementation in Python
+Hopfield network implementation in Python.
