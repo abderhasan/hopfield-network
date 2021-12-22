@@ -1,7 +1,7 @@
 '''
 Author: Dr. Abder-Rahman Ali
 Email: abder.rahman.ali@gmail.com
-This code is an Implementation of the Hopfield network. It is applied on
+This code is an implementation of the Hopfield network. It is applied on
 an image.
 '''
 import numpy as np
